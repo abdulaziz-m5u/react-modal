@@ -1,4 +1,4 @@
-# React JS - Responsive portfolio website
+# React JS - Responsive modal
 
 ![preview img](/preview.png)
 
